@@ -3,15 +3,26 @@ namespace C_Sharp_Crash_Couese
 {
     internal class Program
     {
-               static void Main(string[] args)
+        static void Main(string[] args)
         {
+            //============================================================================================================ 
+            //User input file link
             // This tells Program.cs to go find your UserInput file
-            UserInput inputLesson = new UserInput();
-
-            // This tells it to run the "Show" method we just created
-            inputLesson.Show();
-
-
+            /*
+                                    UserInput inputLesson = new UserInput();
+                                    // This tells it to run the "Show" method we just created
+                                    inputLesson.Show();
+            */
+            /*
+                        This tells Program.cs to go find your ArithmeticOperators
+                         file and run the "Show" method we just created in that file
+            */
+            //============================================================================================================ 
+            //new ArithmeticOperators().Show();
+            //============================================================================================================ 
+            new MathClass().Show();
+            //============================================================================================================ 
+            Console.WriteLine("\nPress any key to exit...");
             Console.ReadKey(); // Wait for a key press before closing the console
 
 
