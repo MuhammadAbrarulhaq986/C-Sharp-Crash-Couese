@@ -22,7 +22,7 @@ namespace C_Sharp_Crash_Couese
             //============================================================================================================ 
             new MathClass().Show();
             //============================================================================================================ 
-            Console.WriteLine("\nPress any key to exit...");
+
             Console.ReadKey(); // Wait for a key press before closing the console
 
 
