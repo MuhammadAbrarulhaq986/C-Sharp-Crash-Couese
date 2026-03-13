@@ -17,12 +17,18 @@ namespace C_Sharp_Crash_Couese
                         This tells Program.cs to go find your ArithmeticOperators
                          file and run the "Show" method we just created in that file
             */
+            
             //==== File name Arithmetic Operators ======================================================================================================== 
             //new ArithmeticOperators().Show();
+            
             //==== File name  Math Class ======================================================================================================== 
             //new MathClass().Show();
+            
             //==== File name  Hypotenuse Calculator ======================================================================================================== 
-            new HypotenuseCalculator().Show();
+            //new HypotenuseCalculator().Show();
+            
+            //==== File name String Methods ======================================================================================================== 
+            new StringMethods().Show();
             //============================================================================================================ 
 
             Console.ReadKey(); // Wait for a key press before closing the console
