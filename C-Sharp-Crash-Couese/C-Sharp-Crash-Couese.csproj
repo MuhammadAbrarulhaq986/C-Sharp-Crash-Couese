@@ -45,6 +45,7 @@
   <ItemGroup>
     <Compile Include="ArithmeticOperators.cs" />
     <Compile Include="HypotenuseCalculator.cs" />
+    <Compile Include="IfElseStatements.cs" />
     <Compile Include="MathClass.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
