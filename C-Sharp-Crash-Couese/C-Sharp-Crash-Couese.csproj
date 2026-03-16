@@ -53,6 +53,7 @@
     <Compile Include="StringMethods.cs" />
     <Compile Include="Switches.cs" />
     <Compile Include="UserInput.cs" />
+    <Compile Include="WhileLoops.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
