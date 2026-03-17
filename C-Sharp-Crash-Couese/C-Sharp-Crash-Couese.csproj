@@ -44,6 +44,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="ArithmeticOperators.cs" />
+    <Compile Include="ForLoops.cs" />
     <Compile Include="HypotenuseCalculator.cs" />
     <Compile Include="IfElseStatements.cs" />
     <Compile Include="LogicalOperators.cs" />
