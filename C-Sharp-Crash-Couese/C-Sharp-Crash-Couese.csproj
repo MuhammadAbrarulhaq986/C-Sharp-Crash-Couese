@@ -49,6 +49,7 @@
     <Compile Include="IfElseStatements.cs" />
     <Compile Include="LogicalOperators.cs" />
     <Compile Include="MathClass.cs" />
+    <Compile Include="NestedLoops.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="StringMethods.cs" />
