@@ -52,6 +52,7 @@
     <Compile Include="IfElseStatements.cs" />
     <Compile Include="LogicalOperators.cs" />
     <Compile Include="MathClass.cs" />
+    <Compile Include="Methods.cs" />
     <Compile Include="NestedLoops.cs" />
     <Compile Include="NumberGuessing.cs" />
     <Compile Include="Program.cs" />

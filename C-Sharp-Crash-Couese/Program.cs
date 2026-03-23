@@ -61,14 +61,17 @@ namespace C_Sharp_Crash_Couese
             //==== 17.File name: Arrays ===============================================================================================================
             //new Arrays().Show();
 
-            //==== 18.File name: For Each Loop ===============================================================================================================
-            new ForEachLoop().Show();
+            //==== 18.File name: For Each Loop ========================================================================================================
+            //new ForEachLoop().Show();
+
+            //==== 19.File name: Methods ==============================================================================================================
+            new Methods().Show();
 
             //=========================================================================================================================================
 
             Console.ReadKey(); // Wait for a key press before closing the 
 
-            /* ********   TypeCasting_04   *********************************
+            /* ********___ TypeCasting_04 ___*********************************
             Type casting = converting a value to a different data type
                             using when we accept user input (string) 
                             different data types can do different thing.
@@ -95,7 +98,7 @@ namespace C_Sharp_Crash_Couese
             Console.WriteLine(j.GetType());
              */
 
-            //******** Constants_03 * ********************************
+            //********___ Constants_03 ___*********************************
             /* Constants = are immutable values which are known at compile
                            time and do not change for the life of the program 
             */
@@ -104,7 +107,7 @@ namespace C_Sharp_Crash_Couese
             //pi = 425;
             Console.WriteLine(pi);
              */
-            /*  ********  Variables_02   *********************************
+            /*  *********___ Variables_02 ___*********************************
                         int x; // Declaration 
                         x = 123; // Initialization
 
@@ -132,7 +135,7 @@ namespace C_Sharp_Crash_Couese
             Console.WriteLine("Your username is :" + userName);
             */
             /*
-            ******** OutPuts_01 *********************************
+            *********___ OutPuts_01 ___*********************************
             Console.Write("I like Biryani!");
             Console.WriteLine("And its relly good!");
             //Console.Beep();
