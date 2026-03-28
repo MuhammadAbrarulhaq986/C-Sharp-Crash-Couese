@@ -56,6 +56,7 @@
     <Compile Include="MathClass.cs" />
     <Compile Include="MethodOverloading.cs" />
     <Compile Include="Methods.cs" />
+    <Compile Include="MultidimensionalArrays.cs" />
     <Compile Include="NestedLoops.cs" />
     <Compile Include="NumberGuessing.cs" />
     <Compile Include="ParamsKeyword.cs" />
@@ -63,6 +64,7 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="ReturnKeyword.cs" />
     <Compile Include="RockPaperScissors.cs" />
+    <Compile Include="StringInterpolation.cs" />
     <Compile Include="StringMethods.cs" />
     <Compile Include="Switches.cs" />
     <Compile Include="UserInput.cs" />

@@ -80,7 +80,13 @@ namespace C_Sharp_Crash_Couese
             //new ExceptionHandling().Show();
 
             //==== 24.File name: Conditional Operator ==============================================================================================================
-            new ConditionalOperator().Show();
+            //new ConditionalOperator().Show();
+
+            //==== 25.File name: String Interpolation ==============================================================================================================
+            //new StringInterpolation().Show();
+
+            //==== 26.File name: Multidimensional Arrays ==============================================================================================================
+            new MultidimensionalArrays().Show();
 
             //=========================================================================================================================================
 
