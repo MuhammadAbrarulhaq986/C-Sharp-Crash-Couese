@@ -65,6 +65,7 @@
     <Compile Include="MultidimensionalArrays.cs" />
     <Compile Include="NestedLoops.cs" />
     <Compile Include="NumberGuessing.cs" />
+    <Compile Include="ObjectsAsArguments.cs" />
     <Compile Include="Objects_.cs" />
     <Compile Include="OverloadedConstructors .cs" />
     <Compile Include="ParamsKeyword.cs" />
