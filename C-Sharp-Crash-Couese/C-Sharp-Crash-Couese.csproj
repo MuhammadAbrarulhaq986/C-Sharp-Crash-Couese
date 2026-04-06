@@ -61,6 +61,7 @@
     <Compile Include="MathClass.cs" />
     <Compile Include="Messages.cs" />
     <Compile Include="MethodOverloading.cs" />
+    <Compile Include="MethodOverriding.cs" />
     <Compile Include="Methods.cs" />
     <Compile Include="MultidimensionalArrays.cs" />
     <Compile Include="NestedLoops.cs" />
