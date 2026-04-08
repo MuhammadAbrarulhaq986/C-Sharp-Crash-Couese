@@ -78,6 +78,7 @@
     <Compile Include="StringInterpolation.cs" />
     <Compile Include="StringMethods.cs" />
     <Compile Include="Switches.cs" />
+    <Compile Include="ToStringMethod.cs" />
     <Compile Include="UserInput.cs" />
     <Compile Include="WhileLoops.cs" />
   </ItemGroup>
