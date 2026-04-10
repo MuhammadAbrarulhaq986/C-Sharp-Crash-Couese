@@ -57,6 +57,7 @@
     <Compile Include="HypotenuseCalculator.cs" />
     <Compile Include="IfElseStatements.cs" />
     <Compile Include="Inheritance.cs" />
+    <Compile Include="Interfaces.cs" />
     <Compile Include="LogicalOperators.cs" />
     <Compile Include="MathClass.cs" />
     <Compile Include="Messages.cs" />
