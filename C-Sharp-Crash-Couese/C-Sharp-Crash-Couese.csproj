@@ -47,10 +47,12 @@
     <Compile Include="ArithmeticOperators.cs" />
     <Compile Include="ArrayOfObjects.cs" />
     <Compile Include="Arrays.cs" />
+    <Compile Include="AutoImplementedProperties.cs" />
     <Compile Include="Calculator.cs" />
     <Compile Include="Classes.cs" />
     <Compile Include="ConditionalOperator.cs" />
     <Compile Include="Constructors_.cs" />
+    <Compile Include="Enums.cs" />
     <Compile Include="ExceptionHandling .cs" />
     <Compile Include="ForEachLoop.cs" />
     <Compile Include="ForLoops.cs" />
