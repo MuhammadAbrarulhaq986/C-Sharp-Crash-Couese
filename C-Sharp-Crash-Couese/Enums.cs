@@ -1,5 +1,4 @@
 ﻿using System;
-using System.Runtime.InteropServices.WindowsRuntime;
 namespace C_Sharp_Crash_Couese
 {
     internal class Enums
@@ -27,7 +26,7 @@ namespace C_Sharp_Crash_Couese
             Console.WriteLine($"Radius: {radius} km");
             Console.WriteLine($"Volume: {volume} km^3");
         }
-        public static double Volume(PlanetsRadius radius) 
+        public static double Volume(PlanetsRadius radius)
         {
             double volume = (4.0 / 3.0) * Math.PI * Math.Pow((int)radius, 3);
             return volume;
@@ -57,5 +56,6 @@ namespace C_Sharp_Crash_Couese
         Neptune = 24622,
         Pluto = 1188
     }
+
 }
 

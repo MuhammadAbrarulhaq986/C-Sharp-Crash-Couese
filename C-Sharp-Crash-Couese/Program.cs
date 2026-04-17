@@ -131,9 +131,13 @@ namespace C_Sharp_Crash_Couese
             //new ListOfObjects().Show();
 
             //==== 41.File name: Getters and Setters ==============================================================================================================
-            new GettersSetters().Show();
+            //new GettersSetters().Show();
 
+            //==== 42.File name: Auto-Implemented Properties ==============================================================================================================
+            //new AutoImplementedProperties().Show();
 
+            //==== 43.File name: Enums
+            new Enums().Show();
             //=========================================================================================================================================
             Console.WriteLine();
             Console.ReadKey();          // Wait for a key press before closing the 
