@@ -56,6 +56,7 @@
     <Compile Include="ExceptionHandling .cs" />
     <Compile Include="ForEachLoop.cs" />
     <Compile Include="ForLoops.cs" />
+    <Compile Include="Generics.cs" />
     <Compile Include="GettersSetters.cs" />
     <Compile Include="HypotenuseCalculator.cs" />
     <Compile Include="IfElseStatements.cs" />
