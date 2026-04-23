@@ -71,6 +71,7 @@
     <Compile Include="MethodOverriding.cs" />
     <Compile Include="Methods.cs" />
     <Compile Include="MultidimensionalArrays.cs" />
+    <Compile Include="Multithreading.cs" />
     <Compile Include="NestedLoops.cs" />
     <Compile Include="NumberGuessing.cs" />
     <Compile Include="ObjectsAsArguments.cs" />
